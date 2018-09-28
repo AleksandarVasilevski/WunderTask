@@ -1,6 +1,6 @@
 This repository contains a sample app written in Kotlin and implements MVVM architecture using Dagger2, Architecture Components, Retrofit, Recyclerview
 
-The app has following packages:
+The app has following packages: 
 
 1: di: Dependency providing classes using Dagger2
 2. network: Retrofit REST service

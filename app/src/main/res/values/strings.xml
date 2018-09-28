@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wunder</string>
+
+    <!-- Maps Api-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyA386CJCeSjGvzcbc4NX8T6sNCTpWR_c8Q
+    </string>
+
+    <string name="dummy">Dummy</string>
+    <string name="address">Address</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="engine_type">Engine Type</string>
+    <string name="exterior">Exterior</string>
+    <string name="fuel">Fuel</string>
+    <string name="interior">Interior</string>
+    <string name="name">Name</string>
+    <string name="vin">Vin</string>
+</resources>
